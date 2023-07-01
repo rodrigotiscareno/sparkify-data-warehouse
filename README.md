@@ -1,5 +1,5 @@
 
-# Udacity - Sparkify Data Warehouse
+# Sparkify Data Warehouse: A Udacity Data Engineering Project
 
 Sparkify, a ficitional, music-streaming startup, has experienced an increase in both the number of users and the amount of music in their app and they are now planning to shift their operations and information to the cloud. The company's data, which includes log files containing user activity on the app and information about the songs available on the app, is currently stored in S3 in the form of JSON files.
 
